@@ -1,4 +1,5 @@
 ### Hi there 👋
-## I am Stanislav, aspiring frontend developer
-- 🌱 I'm currently learning front-end development
+## I am Stanislav, aspiring fullstack developer
+- 🌱 I'm currently learning frontend and backend development
 - Last year IT student in www.amursu.ru
+- Learning Vue.js and Laravel
