@@ -2,4 +2,4 @@
 ## I am Stanislav, aspiring fullstack developer
 - 🌱 I'm currently learning frontend and backend development
 - Last year IT student in www.amursu.ru
-- Learning Vue.js and Laravel
+- Learning Vue.js and .Net core
